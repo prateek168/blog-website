@@ -32,5 +32,4 @@ This project is a blog application built using Django. It features user authenti
 - Django documentation
 - Bootstrap
 - Font Awesome
-- Dont Forget to subscribe the 'Brokly Master' Youtube channel for further update.
-
+ 
